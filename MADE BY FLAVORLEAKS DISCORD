@@ -1,6 +1,6 @@
 loopRunning = true
     
     while loopRunning do
-    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("! .gg/Jpxrg3cJ || EZ RAID LOL || SERVER RAIDED.", "All")
-    wait()
+    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("! .gg/7Bpd2gm8 || EZ RAID LOL || SERVER RAIDED.", "All")
+    wait(0.1)
 end
